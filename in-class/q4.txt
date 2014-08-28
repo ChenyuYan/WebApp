@@ -1,6 +1,0 @@
-POST /webapps/methods/check-post HTTP/1.1
-Host: garrod.isri.cmu.edu
-Content-type: application/x-www-form-urlencoded
-Content-length: 23
-
-andrewid=cyan&color=red
