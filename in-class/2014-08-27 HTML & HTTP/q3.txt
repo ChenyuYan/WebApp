@@ -1,2 +1,6 @@
+telnet garrod.isri.cmu.edu 80
+
+
+
 GET /webapps/methods/check-get?andrewid=cyan&color=red HTTP/1.1
 Host: garrod.isri.cmu.edu
